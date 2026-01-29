@@ -1,7 +1,7 @@
 # Stock-Market-ML-Forecasting
 **A machine learning framework for risk-adjusted stock market forecasting**
 
-This project builds a complete ML pipeline for predicting the **daily excess returns** of the S&P 500 and optimizing a portfolio’s **risk-adjusted Sharpe ratio**.
+This project builds a complete ML pipeline for predicting the **daily excess returns** of the S&P 500 and optimizing a portfolio’s **risk-adjusted Sharpe ratio**. **More details on algorithm and portfolio strategy used can be found in Project Report.pdf file**
 
 ---
 
