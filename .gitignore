@@ -1,0 +1,6 @@
+data/
+submissions/
+__pycache__/
+*.pkl
+*.log
+*.ipynb_checkpoints/
