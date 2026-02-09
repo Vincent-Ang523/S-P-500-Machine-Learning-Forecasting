@@ -18,7 +18,3 @@ This project builds a complete ML pipeline for predicting the **daily excess ret
 - Ridge, LightGBM, and ensemble models
 - Custom Sharpe metric implementation
 - Full backtesting and evaluation pipeline
-
----
-
-## Project Structure
